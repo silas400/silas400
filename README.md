@@ -1,5 +1,14 @@
-### Hi there 👋
+# ⚡ Silas Little
 
+<div>
+
+<h3>Roles/Job Experience</h3>
+
+```
+Software Developer | Website Developer | Coding Instructor | Curriculum Creator| Program Advisor | Project Manager
+```
+<p border-top="1px solid black"></p>
+</div>
 <!--
 **silas400/silas400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
