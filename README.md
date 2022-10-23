@@ -13,7 +13,7 @@ Software Developer | Website Developer | Coding Instructor | Curriculum Creator|
 
 <div align="center">
   <h3>Languages & Tools</h3>
-<img width="500px" src="https://cdn.discordapp.com/attachments/479100654233714700/1033678164720881694/ahahahaha.png">
+<img width="500px" src="https://cdn.discordapp.com/attachments/479100654233714700/1033681158153703534/ahahahaha_fixed.png">
 </div>
 <!--
 
