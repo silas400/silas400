@@ -1,11 +1,11 @@
 # ⚡ Silas Little
 
-<div>
+<div align="center">
 
-<h3>Roles/Job Experience</h3>
+<h3 align="center">Roles/Job Experience</h3>
 
 ```
-Software Developer | Website Developer | Coding Instructor | Curriculum Creator| Program Advisor | Project Manager
+Software Developer | Website Developer | Coding Instructor | Curriculum Creator| Program Advisor
 ```
   
  #
