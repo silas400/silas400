@@ -11,7 +11,10 @@ Software Developer | Website Developer | Coding Instructor | Curriculum Creator|
  #
 </div>
 
-
+<div align="center">
+  <h3>Languages & Tools</h3>
+<img width="500px" src="https://cdn.discordapp.com/attachments/479100654233714700/1033678164720881694/ahahahaha.png">
+</div>
 <!--
 
 **silas400/silas400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
