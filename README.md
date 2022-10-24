@@ -17,6 +17,10 @@ Software Developer | Website Developer | Coding Instructor | Curriculum Creator|
   
 #
 </div>
+
+<h3 align="center">About me</h3>
+
+I am a motivated individual that has a passion for coding and being a positive force in the world. No matter what role I am taking on, I will put my all to ensure that I and the team around me excels at completing the tasks at hand. Some of my biggest strengths is my ability to lead, flexibility, proven reliability, and keeping focus on the bigger picture. Happy Coding!    
 <!--
 
 **silas400/silas400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
